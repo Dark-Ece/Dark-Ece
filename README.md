@@ -48,15 +48,15 @@ Electronics & Communication Engineering Student • Embedded Systems • Robotic
 
 <p align="left">
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="(https://www.linkedin.com/in/sahil-thakur-5bb535229/)">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:YOURMAIL@gmail.com">
+<a href="mailto:sahilthakur98060@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-<a href="https://github.com/YOURUSERNAME">
+<a href="https://github.com/Dark-Ece">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
@@ -64,7 +64,7 @@ Electronics & Communication Engineering Student • Embedded Systems • Robotic
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefoxbrowser&logoColor=white"/>
 </a>
 
-<a href="YOUR_RESUME_LINK">
+<a href="(https://drive.google.com/file/d/1fA8pRIURN8q38WraQ0nD2Yqd9M4Uxqyu/view?usp=drive_link)">
 <img src="https://img.shields.io/badge/Resume-0078D4?style=for-the-badge&logo=readthedocs&logoColor=white"/>
 </a>
 
