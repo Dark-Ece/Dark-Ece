@@ -110,7 +110,7 @@
 <img src="./images/exoskeleton.png" alt="Exoskeleton" width="100%">
 </a>
 </p>
-<p align="center">Wearable robotic exoskeleton for gait assistance.</p>
+<p align="center">CREATED AN OBJECT CLASSIFICATION MODEL WITH YOLO V8.</p>
 </td>
 </tr>
 
@@ -122,7 +122,7 @@
 <img src="./images/laryngoscope.png" alt="Video Laryngoscope" width="100%">
 </a>
 </p>
-<p align="center">AI-enabled embedded medical visualization device.</p>
+<p align="center">DEVELOPED AN ROBOTIC ARM WITH FORWARD KINEMATICS</p>
 </td>
 
 <td width="50%">
