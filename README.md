@@ -104,7 +104,7 @@
 </td>
 
 <td width="50%">
-<h3 align="center">🦿 Lower Limb Exoskeleton</h3>
+<h3 align="center">🦿 OBJECT CLASSIFICATION</h3>
 <p align="center">
 <a href="https://github.com/Dark-Ece">
 <img src="./images/exoskeleton.png" alt="Exoskeleton" width="100%">
@@ -116,7 +116,7 @@
 
 <tr>
 <td width="50%">
-<h3 align="center">🩺 Video Laryngoscope</h3>
+<h3 align="center">🩺 5 DOF ROBOTIC ARM </h3>
 <p align="center">
 <a href="https://github.com/Dark-Ece">
 <img src="./images/laryngoscope.png" alt="Video Laryngoscope" width="100%">
